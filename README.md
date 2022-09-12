@@ -2,8 +2,6 @@ Hi 👋, I'm Fu11Stack
 
 A passionate Web developer. I enjoy to build beautiful websites with latest tech!
 
-🔭 I’m currently working on React Projects
-
 📫 How to reach me Jus10Lopez@yahoo.com
 
 This is a place holder for code for my portfolio project
