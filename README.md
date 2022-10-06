@@ -4,7 +4,6 @@ A passionate Web developer. I enjoy to build beautiful websites with latest tech
 
 📫 How to reach me Jus10Lopez@yahoo.com
 
-This is a place holder for code for my portfolio project
 
 ▶ Languages and Tools:
 <h3 align="left">▶ Languages and Tools:</h3>
